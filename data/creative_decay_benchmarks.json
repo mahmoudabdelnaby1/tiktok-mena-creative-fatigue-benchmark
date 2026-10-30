@@ -1,0 +1,25 @@
+{
+  "verticals": {
+    "beauty_perfumes": {
+      "avg_lifespan_days": 6.8,
+      "decay_threshold_frequency": 2.8,
+      "cpa_inflation_week2": "+45%"
+    },
+    "consumer_electronics": {
+      "avg_lifespan_days": 10.4,
+      "decay_threshold_frequency": 3.4,
+      "cpa_inflation_week2": "+28%"
+    },
+    "modest_fashion": {
+      "avg_lifespan_days": 5.2,
+      "decay_threshold_frequency": 2.4,
+      "cpa_inflation_week2": "+58%"
+    },
+    "b2b_fintech": {
+      "avg_lifespan_days": 14.5,
+      "decay_threshold_frequency": 4.1,
+      "cpa_inflation_week2": "+15%"
+    }
+  },
+  "data_status": "synthetic_scenario_not_measured"
+}
